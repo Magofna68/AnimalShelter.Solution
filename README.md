@@ -3,45 +3,44 @@
   <big>||  &nbsp;&nbsp;&nbsp;<u><b>Animal Shelter</b></u>&nbsp;&nbsp;&nbsp;  ||</big>
 </p>
 <p align="center">
-    <!-- Project Avatar/Logo -->
-    <br>
-    <a href="https://github.com/Magofna68">
-        <img src="https://avatars.githubusercontent.com/u/80496559?v=4">
-    </a>
-<p align="center">Changing the world one line of code at a time.</p>
-    <p align="center">
-      __________________________________________________
-    </p>
-<p align="center">
   <small>June 11th, 2021.</small>
 </p>
-    <!-- GitHub Link -->
+<br>
+<p align="center">Changing the world one line of code at a time.</p>
+    <p align="center">
+        <a href="https://github.com/Magofna68/MessageBoard.Solution/graphs/contributors">
+            <img src="https://img.shields.io/github/contributors/Magofna68/MessageBoard.Solution.svg?style=plastic">
+        </a>
+        ¨
+        <a href="https://github.com/Magofna68/MessageBoard.Solution/stargazers">
+            <img src="https://img.shields.io/github/license/Magofna68/PierresTreats.Solution?style=plastic">
+        </a>
+        ¨
+        <a href="https://github.com/Magofna68/MessageBoard.Solution/issues">
+            <img src="https://img.shields.io/github/last-commit/Magofna68/MessageBoard.Solution?style=plastic">
+        </a>
+        ¨
+        <a href="https://linkedin.com/in/Magofna68">
+            <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2">
+        </a>
+    </p>
+<p align="center">
+    <!-- Project Avatar/Logo -->
     <p align="center">
         <a href="https://github.com/Magofna68">
             <strong>Magofna68</strong>
         </a>
     </p>
-    <!-- Project Shields -->
     <p align="center">
-        <a href="https://github.com/Magofna68/MessageBoard.Solution/graphs/contributors">
-            <img src="https://img.shields.io/github/contributors/Magofna68/MessageBoard.Solution.svg?style=plastic">
-        </a>
-        <br>
-        ¨
-        <a href="https://github.com/Magofna68/MessageBoard.Solution/stargazers">
-            <img src="https://img.shields.io/github/license/Magofna68/PierresTreats.Solution?style=plastic">
-        </a>
-        <br>
-        ¨
-        <a href="https://github.com/Magofna68/MessageBoard.Solution/issues">
-            <img src="https://img.shields.io/github/last-commit/Magofna68/MessageBoard.Solution?style=plastic">
-        </a>
-        <br>
-        ¨
-        <a href="https://linkedin.com/in/Magofna68">
-            <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2">
-        </a>
-    </p>    
+      __________________________________________________
+    </p>
+    <br>
+    <p align="center"><a href="https://github.com/Magofna68">
+        <img src="https://avatars.githubusercontent.com/u/80496559?v=4">
+    </a></p>
+    <br>
+    <!-- GitHub Link -->
+    <!-- Project Shields -->
 </p>
 
 ------------------------------
@@ -50,7 +49,7 @@
 This is my project for my 13th week at Epicodus. This project is focused on building an API for an animal shelter containing both cats and dogs.
 
 ### 📖 Description
-This project will utilize .Net framework along with Swagger to help build out a functional API for animals up for adoption at an animal shelter. 
+This project will utilize .Net framework along with Swagger to help build out a functional API for animals up for adoption (Cats/Dogs) at an animal shelter. 
 
 
 ### 🛠 Built With
@@ -87,6 +86,8 @@ This project will utilize .Net framework along with Swagger to help build out a 
      * [Download Here](https://www.npmjs.com/)
   * ii) Download and install into applications folder
 
+______________________________________________________________________________________
+<br>
 
 ## Setup:
 
@@ -163,5 +164,4 @@ https://localhost:5000/swagger/index.html
 
 ..........................................................................................
 
-------------------------------
 
