@@ -2,9 +2,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 using WebApi.Services;
 using System.Threading.Tasks;
-using AnimalShelter.Models;
+using WebApi.Models;
 
-namespace AnimalShelter.Controllers
+namespace WebApi.Controllers
 {
   [Authorize]
   [ApiController]
