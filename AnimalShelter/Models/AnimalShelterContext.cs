@@ -13,7 +13,7 @@ namespace AnimalShelter.Models
     {
       builder.Entity<Pet>()
         .HasData(
-          new Pet { AnimalId = 1, Type = "Cat", Name = "Tiffany", Gender = "Female", Breed = "RagaMuffin", Age = 3, Description = "Long Haired; White/Orangish in color" }
+          new Pet { PetId = 1, Type = "Cat", Name = "Tiffany", Gender = "Female", Breed = "RagaMuffin", Age = 3, Description = "Long Haired; White/Orangish in color" }
         );
     }
   }

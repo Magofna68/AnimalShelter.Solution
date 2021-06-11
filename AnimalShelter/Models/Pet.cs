@@ -4,7 +4,7 @@ namespace AnimalShelter
 {
   public class Pet
   {
-    public int AnimalId { get; set; }
+    public int PetId { get; set; }
     [Required]
     [StringLength(3)]
     public string Type { get; set; }
