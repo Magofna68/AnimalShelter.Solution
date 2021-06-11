@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zRXEpIcbHYA2DWD8Z+zE6icd0wZafkj+4GFWHTl9mPhWm1lfReNt2S5qs3rA0KKucaklRJte+3vsVkXdTJhoAw==",
+  "dgSpecHash": "fd4MUz+pvJrjFFf+e8kuLa6m5nEc4yEahUQGg3Cae3W8qw7PoJX9IWeSMzXXM4UJ4K17yg8I44nNRSRaU8hSMA==",
   "success": true,
   "projectFilePath": "/Users/Admin/Desktop/Epicodus/week-13/AnimalShelter.Solution/AnimalShelter/AnimalShelter.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,8 @@
     "/Users/Admin/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "/Users/Admin/.nuget/packages/microsoft.identitymodel.tokens/6.7.1/microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "/Users/Admin/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/Admin/.nuget/packages/mysqlconnector/1.1.0/mysqlconnector.1.1.0.nupkg.sha512",
+    "/Users/Admin/.nuget/packages/pomelo.entityframeworkcore.mysql/5.0.0-alpha.2/pomelo.entityframeworkcore.mysql.5.0.0-alpha.2.nupkg.sha512",
     "/Users/Admin/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/Users/Admin/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/Users/Admin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
