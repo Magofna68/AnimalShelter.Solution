@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <u><big>||  <b>MessageBoard API</b>  ||</big></u>
+  <big>||  &nbsp;&nbsp;&nbsp;<u><b>Animal Shelter</b></u>&nbsp;&nbsp;&nbsp;  ||</big>
 </p>
 <p align="center">
     <!-- Project Avatar/Logo -->
@@ -10,8 +10,11 @@
     </a>
 <p align="center">Changing the world one line of code at a time.</p>
     <p align="center">
-      ___________________________
+      __________________________________________________
     </p>
+<p align="center">
+  <small>June 11th, 2021.</small>
+</p>
     <!-- GitHub Link -->
     <p align="center">
         <a href="https://github.com/Magofna68">
@@ -23,14 +26,17 @@
         <a href="https://github.com/Magofna68/MessageBoard.Solution/graphs/contributors">
             <img src="https://img.shields.io/github/contributors/Magofna68/MessageBoard.Solution.svg?style=plastic">
         </a>
+        <br>
         ¨
         <a href="https://github.com/Magofna68/MessageBoard.Solution/stargazers">
             <img src="https://img.shields.io/github/license/Magofna68/PierresTreats.Solution?style=plastic">
         </a>
+        <br>
         ¨
         <a href="https://github.com/Magofna68/MessageBoard.Solution/issues">
             <img src="https://img.shields.io/github/last-commit/Magofna68/MessageBoard.Solution?style=plastic">
         </a>
+        <br>
         ¨
         <a href="https://linkedin.com/in/Magofna68">
             <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2">
@@ -38,20 +44,13 @@
     </p>    
 </p>
 
-<p align="center">
-  <small>Initiated June 10th, 2021.</small>
-</p>
-
-<!-- Project Links -->
-
 ------------------------------
 
 ## 🌐 About the Project
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis auctor euismod. Aliquam fermentum, nibh eget semper tincidunt, risus velit viverra mi, ac tincidunt erat lectus id orci.
-### 📖 Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis auctor euismod. Aliquam fermentum, nibh eget semper tincidunt, risus velit viverra mi, ac tincidunt erat lectus id orci.
+This is my project for my 13th week at Epicodus. This project is focused on building an API for an animal shelter containing both cats and dogs.
 
-<!-- ### 🦠 Known Bugs -->
+### 📖 Description
+This project will utilize .Net framework along with Swagger to help build out a functional API for animals up for adoption at an animal shelter. 
 
 
 ### 🛠 Built With
@@ -62,23 +61,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis auctor euism
 * [Swagger: SquashBuckle v5.6.3](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag?view=aspnetcore-3.1&tabs=visual-studio)
 * [Postman](postman.com)
 
-<!-- ### 🔍 Preview -->
-
 ------------------------------
 
 ## Installation Requirements:
 
 ### 1) Install .NET Core
 * On macOS:
-  * [Click here](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.106-macos-x64-installer) to download the .NET Core SDK from Microsoft Corp for macOS.
+  * [Click here](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.106-macos-x64-installer)
 * On Windows 10:
-  * [Click here](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.203-windows-x64-installer) to download the 64-bit .NET Core SDK from Microsoft Corp for Windows.
+  * [Click here](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.203-windows-x64-installer)
 
 ### 2) Install dotnet script
- * Enter the command ``dotnet tool install -g dotnet-script`` in Terminal/PowerShell.
+ * Enter the command ``dotnet tool install -g dotnet-script`` in Terminal.
 
 ### 3) MySQL Workbench 
-#### (or other database to host data) and enter secure password:
+#### (or other database to host data) Create & secure a password:
  * [Downloaded Here](https://dev.mysql.com/downloads/workbench/).
 
 ### 4) Install Postman
@@ -111,7 +108,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis auctor euism
   ```
     "AllowedHosts": "*",
     "ConnectionStrings": {
-        "DefaultConnection": "Server=localhost;Port=[3306];database=[project_api];uid=root;pwd=[YourPassword];"
+        "DefaultConnection": "Server=localhost;Port=[Misc_Number];database=[project_api];uid=root;pwd=[YourPassword];"
     }
   ```
 
@@ -165,14 +162,6 @@ https://localhost:5000/swagger/index.html
 ```
 
 ..........................................................................................
-
-------------------------------
-
-### 🤝 Contribution Info:
-
-| Author | GitHub | Email |
-|--------|:------:|:-----:|
-| [Brandon Magofna](https://www.linkedin.com/in/magofna/) | [Magofna68](https://github.com/LunsfordSpace) |  [Magofna68@gmail.com](mailto:Magofna68@gmail.com) |
 
 ------------------------------
 
