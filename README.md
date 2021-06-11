@@ -138,11 +138,11 @@ Base URL: `https://localhost:5000`
 
 #### HTTP Request Structure
 ```
-GET /api/{component}
-POST /api/{component}
-GET /api/{component}/{id}
-PUT /api/{component}/{id}
-DELETE /api/{component}/{id}
+GET /api/{project}
+POST /api/{project}
+GET /api/{project}/{id}
+PUT /api/{project}/{id}
+DELETE /api/{project}/{id}
 ```
 
 #### Example Query w/ swagger:
