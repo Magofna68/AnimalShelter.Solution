@@ -1,0 +1,7 @@
+/Users/Admin/Desktop/Epicodus/week-13/AnimalShelter.Solution/AnimalShelter/obj/Debug/net5.0/AnimalShelter.csprojAssemblyReference.cache
+/Users/Admin/Desktop/Epicodus/week-13/AnimalShelter.Solution/AnimalShelter/obj/Debug/net5.0/AnimalShelter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Epicodus/week-13/AnimalShelter.Solution/AnimalShelter/obj/Debug/net5.0/AnimalShelter.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Epicodus/week-13/AnimalShelter.Solution/AnimalShelter/obj/Debug/net5.0/AnimalShelter.AssemblyInfo.cs
+/Users/Admin/Desktop/Epicodus/week-13/AnimalShelter.Solution/AnimalShelter/obj/Debug/net5.0/AnimalShelter.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Epicodus/week-13/AnimalShelter.Solution/AnimalShelter/obj/Debug/net5.0/AnimalShelter.MvcApplicationPartsAssemblyInfo.cs
+/Users/Admin/Desktop/Epicodus/week-13/AnimalShelter.Solution/AnimalShelter/obj/Debug/net5.0/AnimalShelter.MvcApplicationPartsAssemblyInfo.cache
