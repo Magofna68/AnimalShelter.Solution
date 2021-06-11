@@ -14,7 +14,7 @@ namespace AnimalShelter
     public string Gender { get; set; }
     public string Breed { get; set; }
     [Required]
-    public int Age { get; set; }
+    public double Age { get; set; }
     [Required]
     public string Description { get; set; }
   }

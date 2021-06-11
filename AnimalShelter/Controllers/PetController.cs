@@ -19,7 +19,7 @@ namespace AnimalShelter
     }
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Pet>>> Get(string type, string name, string gender, string breed, int age, string description)
+    public async Task<ActionResult<IEnumerable<Pet>>> Get(string type, string name, string gender, string breed, double age, string description)
     {
       var query = _db.Pets.AsQueryable();
 
